@@ -1,0 +1,1 @@
+{"version":3,"file":"test.js","sourceRoot":"","sources":["test.ts"],"names":["Animal","Animal.constructor","Animal.sayHello"],"mappings":"AAAA;;GAEG;AACH;IACIA;IAAeC,CAACA;;IAChBD,yBAAQA,GAARA,cAAaE,KAAKA,CAACA,OAAOA,CAACA,CAACA,CAACA,CAACA;IAClCF,aAACA;AAADA,CAACA,AAHD,IAGC;AAED,IAAI,OAAO,GAAG,IAAI,MAAM,EAAE,CAAC;AAE3B,OAAO,CAAC,QAAQ,EAAE,CAAC"}
